@@ -1,0 +1,67 @@
+.jp-SignalExamplePanel {
+  background-color: AliceBlue;
+}
+
+.jp-ButtonWidget {
+  background-color: green;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  width: 50px;
+  height: 50px;
+}
+
+
+.jp-TitleWidget {
+  text-align: center;
+  text-decoration: none;
+  display: inline;
+  font-size: 16px;
+  width: 50px;
+}
+
+.jp-example-view {
+  background-color: AliceBlue;
+  width: 300px;
+}
+
+
+.jp-textarea-input {
+	width: 150px;
+    margin: 10px 20px;
+	height: 50px;
+}
+
+
+.jp-h1 {
+	display: inline;
+    font-size: 16px;
+    margin: 10px 20px;
+}
+
+.jp-span {
+	margin: 10px 20px;
+}
+
+
+.jp-spanTime {
+	margin: 10px 35px 10px 130px;
+}
+
+.Container {
+	padding: 20px 30px;
+	min-width: max-content;
+}
+
+.linespacing {
+	margin-bottom: 20px;
+}
+
+
+
